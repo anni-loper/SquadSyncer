@@ -49,7 +49,9 @@ npm install
 
 5. Go back to the project root directory:
 
+```bash
 npm run dev
+```
 
 8. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
