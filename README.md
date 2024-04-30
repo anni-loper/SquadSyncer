@@ -49,22 +49,7 @@ npm install
 
 5. Go back to the project root directory:
 
-```bash
-cd ..
-```
-
-6. Run the backend server:
-
-```bash
-npm start
-```
-
-7. In another terminal, navigate to the `client` directory and start the React development server:
-
-```bash
-cd client
-npm start
-```
+npm run dev
 
 8. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
